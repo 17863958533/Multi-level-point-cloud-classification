@@ -13,4 +13,7 @@ Description of development environment:
 7. Upload the software and source code we use for the visualization of point cloud results in the folder viewer.
 8. If you have any questions, please contact us by email.
 
+If the file is incomplete, it is recommended to download all the files from the alternate link below.
+Link：https://pan.baidu.com/s/1y3KojAr7srbsB0qjajrtTQ?pwd=7sh9 
+Code：7sh9 
 
